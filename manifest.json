@@ -14,7 +14,7 @@
   "mustUpdateAt": "2018-09-05",
   "settingsSchema": {},
   "scripts": {
-    "prereleasy": "bash lint.sh"
+    "prereleasy": "echo passou"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
