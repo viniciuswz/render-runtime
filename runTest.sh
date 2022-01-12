@@ -1,2 +1,2 @@
 #!/bin/bash
-yarn test
+cd react && yarn test
