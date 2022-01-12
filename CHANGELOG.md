@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [8.133.0] - 2022-01-12
+
 ## [8.132.3] - 2021-10-06
 ### Fixed
 - Link and PrefetchLink props.
