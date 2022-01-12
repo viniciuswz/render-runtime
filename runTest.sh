@@ -1,2 +1,2 @@
 #!/bin/bash
-cd react && yarn test
+echo "deu certo"
