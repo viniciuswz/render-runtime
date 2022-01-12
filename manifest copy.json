@@ -1,7 +1,7 @@
 {
-  "vendor": "vtex",
+  "vendor": "corebizio",
   "name": "render-runtime",
-  "version": "8.132.3",
+  "version": "8.133.0",
   "title": "VTEX Render runtime",
   "description": "The VTEX Render framework runtime",
   "builders": {
@@ -14,7 +14,7 @@
   "mustUpdateAt": "2018-09-05",
   "settingsSchema": {},
   "scripts": {
-    "prereleasy": "bash runTest.sh"
+    "prereleasy": "yarn test"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
