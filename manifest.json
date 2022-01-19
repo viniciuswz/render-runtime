@@ -14,7 +14,7 @@
   "mustUpdateAt": "2018-09-05",
   "settingsSchema": {},
   "scripts": {
-    "prereleasy": "bash runTest.sh"
+    "prereleasy": "cd react && yarn test"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
